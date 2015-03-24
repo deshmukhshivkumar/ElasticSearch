@@ -1,0 +1,9 @@
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\Utility\bin\Debug\Utility.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\Utility\bin\Debug\Utility.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\Utility\bin\Debug\DBProvider.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\Utility\bin\Debug\EntityFramework.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\Utility\bin\Debug\DBProvider.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\Utility\obj\Debug\Utility.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\Utility\obj\Debug\Utility.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\Utility\bin\Debug\EntityFramework.xml

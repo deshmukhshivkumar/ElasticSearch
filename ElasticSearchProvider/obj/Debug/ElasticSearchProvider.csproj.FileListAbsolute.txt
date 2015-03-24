@@ -1,0 +1,17 @@
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\ElasticSearchProvider.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\ElasticSearchProvider.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\DBProvider.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\Elasticsearch.Net.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\Nest.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\Newtonsoft.Json.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\EntityFramework.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\DBProvider.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\Elasticsearch.Net.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\Elasticsearch.Net.xml
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\Nest.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\Nest.xml
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\Newtonsoft.Json.xml
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\obj\Debug\ElasticSearchProvider.csprojResolveAssemblyReference.cache
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\obj\Debug\ElasticSearchProvider.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\obj\Debug\ElasticSearchProvider.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\ElasticSearchProvider\bin\Debug\EntityFramework.xml

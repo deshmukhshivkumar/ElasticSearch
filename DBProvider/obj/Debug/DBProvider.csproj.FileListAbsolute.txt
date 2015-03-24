@@ -1,0 +1,11 @@
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\bin\Debug\DBProvider.dll.config
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\bin\Debug\DBProvider.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\bin\Debug\DBProvider.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\bin\Debug\EntityFramework.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\bin\Debug\EntityFramework.SqlServer.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\obj\Debug\DBProvider.dll
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\obj\Debug\DBProvider.pdb
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\bin\Debug\EntityFramework.xml
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\bin\Debug\EntityFramework.SqlServer.xml
+D:\Other\Back Up\My Documents\My Projects\Elastic Search\ElasticSearch\DBProvider\obj\Debug\DBProvider.csprojResolveAssemblyReference.cache
